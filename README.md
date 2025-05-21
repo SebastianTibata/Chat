@@ -1,1 +1,1 @@
-Implementacion de un chat que usa Sockets y Threads para conectarse entre si, se usa la libreria tkinter para hacer la interfaz grafica, posibilidad de expansion con librerias mas avanzadas.
+Implementation of a chat that uses Sockets and Threads to connect to each other. The Tkinter library is used to create the graphical interface, with the possibility of expansion with more advanced libraries.
